@@ -12,8 +12,8 @@
 ## Installation
 Clone the repository:
   ```bash
-  git clone <your-repo-url>
-  cd <your-repo-folder>
+  git clone https://github.com/OleksiiUzu/fast-api-homework-20-mongodb.git
+  cd fast-api-homework-20-mongodb
   ```
 Install dependencies:
   ```bash
